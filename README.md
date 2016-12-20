@@ -20,3 +20,4 @@ This is a matlab code that can build HDR from brackets, and do fast local laplac
 some adjustable varibales like alpha(decide details), beta(decide contrast), number of references. 
 No Gaussian pyramids pregenerating for memory consideration.
 
+![result](https://cloud.githubusercontent.com/assets/16308037/21352608/381206d0-c6fd-11e6-979b-1ba80b26a5e9.png)
