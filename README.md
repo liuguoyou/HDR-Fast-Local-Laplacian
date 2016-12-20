@@ -16,7 +16,7 @@ Fast local laplacian filter:
 paper and implementation
 http://www.di.ens.fr/~aubry/llf.html
 
-This is a matlab code that can build HDR from brackets, and do fast local laplacian tone mapping with
+Build HDR from brackets, and do fast local laplacian tone mapping with
 some adjustable varibales like alpha(decide details), beta(decide contrast), number of references. 
 No Gaussian pyramids pregenerating for memory consideration.
 
