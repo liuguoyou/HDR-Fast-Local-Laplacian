@@ -1,5 +1,5 @@
 %% hdr recovery
-dirName = ('indoor\');
+dirName = ('image/');
 [filenames, exposures, numExposures] = readDir(dirName);
 tmp = imread(filenames{1});
 numPixels = size(tmp,1) * size(tmp,2);
